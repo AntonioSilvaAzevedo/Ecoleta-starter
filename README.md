@@ -12,4 +12,4 @@
 
 # :cloud: Projetc development information
 
-### used api frin IBGE for uf consutations and cities
+### used api from IBGE for uf consutations and cities

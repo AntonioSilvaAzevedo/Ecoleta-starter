@@ -21,6 +21,11 @@
   }
 }
 
+/* #page-search-results .cards {
+  grid-template-columns: 1fr;
+} */
+
+
 @media (max-width: 1700px) { /* largura maxima */
   #page-home {
     background-position-x: 40vw;
