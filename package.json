@@ -1,0 +1,28 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "[![Author](https://img.shields.io/badge/author-AntonioSilvaAzevedo-blue?style=plastic)](https://github.com/AntonioSilvaAzevedo)\r ![GitHub last commit](https://img.shields.io/github/last-commit/AntonioSilvaAzevedo/GoBarber---Front?style=plastic)\r ![GitHub repo size](https://img.shields.io/github/repo-size/AntonioSilvaAzevedo/GoBarber---Front?style=plastic)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioSilvaAzevedo/Ecoleta-starter.git"
+  },
+  "keywords": [],
+  "author": "Antonio Carlos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntonioSilvaAzevedo/Ecoleta-starter/issues"
+  },
+  "homepage": "https://github.com/AntonioSilvaAzevedo/Ecoleta-starter#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
