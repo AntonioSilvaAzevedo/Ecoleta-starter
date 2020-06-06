@@ -29,7 +29,7 @@ The <strong>Ecoleta</strong> is a Web application to help people find collection
 2. install the dependencies:
 
 ```sh
-  # Instale as dependências
+  # Install dependêncies
   $ npm install
 
 
